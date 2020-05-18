@@ -1,4 +1,4 @@
-package appliccation;
+package application;
 
 import boardgame.Position;
 
